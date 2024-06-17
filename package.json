@@ -34,7 +34,7 @@
     "google-it": "^1.6.2",
     "human-readable": "^0.2.1",
     "jimp": "^0.16.1",
-    "jsdom": "^16.4.0",
+    "jsdom": "^17.0.0",
     "moment-timezone": "^0.5.34",
     "node-cron": "^3.0.0",
     "node-fetch": "^2.6.1",
